@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 Passion for Web-Development
+- 🌱 I'm a Passionate Web-Developer.
 - 🔭 I’m currently working on [this-project](https://github.com/Matthias-Mosthof/Complete-Server-Side-Rendered-App-NodeJS-Express-MongoDB-Mongoose)
-- ⚡ Enthusiasm for Coding, Sports and Chess. 
+- ⚡ Besides Coding I've a huge interest in Sports, Gaming and Chess. 
 
 <!--
 **Matthias-Mosthof/Matthias-Mosthof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
