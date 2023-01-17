@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development [@Coding-bootcamps-eu](https://github.com/coding-bootcamps-eu)
+- 🌱 Passion for Web-Development
+- 🔭 I’m currently working on [@this-project](https://github.com/Matthias-Mosthof/Complete-Server-Side-Rendered-App-NodeJS-Express-MongoDB-Mongoose)
+- ⚡ Enthusiasm for Coding, Sports and Chess. 
 
 <!--
 **Matthias-Mosthof/Matthias-Mosthof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
