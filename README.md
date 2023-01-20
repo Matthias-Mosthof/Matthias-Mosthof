@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm a Passionate Web-Developer.
-- 🔭 I’m currently working on [this-project](https://github.com/Matthias-Mosthof/Complete-Server-Side-Rendered-App-NodeJS-Express-MongoDB-Mongoose)
+- 🔭 I’m currently working on [this project](https://github.com/Matthias-Mosthof/Complete-Server-Side-Rendered-App-NodeJS-Express-MongoDB-Mongoose)
 - ⚡ Besides coding I've a huge interest in sports, gaming and chess. 
 
 <!--
