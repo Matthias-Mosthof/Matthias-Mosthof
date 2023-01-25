@@ -2,7 +2,7 @@
 
 - 🌱 I'm a Passionate Web-Developer.
 - 🔭 I’m currently working on [this project](https://github.com/Matthias-Mosthof/Complete-Server-Side-Rendered-App-NodeJS-Express-MongoDB-Mongoose)
-- ⚡ Besides coding I've a huge interest in sports, gaming and chess. 
+- ⚡ Besides coding I've a huge interest in sports, competetive gaming and chess. 
 
 <!--
 **Matthias-Mosthof/Matthias-Mosthof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
