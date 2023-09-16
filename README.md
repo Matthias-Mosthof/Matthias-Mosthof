@@ -1,14 +1,13 @@
 ### Hi there 👋
 
 - 🌱 Professional VueJS Web-Developer [@Wunschgutschein](https://www.wunschgutschein.de/)
-- 🔭 In my spare time Im currently working on [this project](https://github.com/Matthias-Mosthof/Complete-Server-Side-Rendered-App-NodeJS-Express-MongoDB-Mongoose)
 - ⚡ Besides coding I've huge interests in sports, competetive gaming and chess. 
 
 <!--
 **Matthias-Mosthof/Matthias-Mosthof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 In my spare time Im currently working on [this project](https://github.com/Matthias-Mosthof/Complete-Server-Side-Rendered-App-NodeJS-Express-MongoDB-Mongoose)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
