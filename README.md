@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Professional VueJS Web-Developer [@Wunschgutschein](https://www.wunschgutschein.de/)
+- 🌱 Professional Web-Developer 
 - ⚡ Besides coding I've huge interests in sports, competetive gaming and chess. 
 
 <!--
